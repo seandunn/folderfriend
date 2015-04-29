@@ -2,8 +2,10 @@
 
 A proof of concept route planner for folding bike users.
 
+You can play with the [demo here](http://seandunn.github.io/folderfriend).
+
 Google Maps offers routing for cyclists and for public transport but doesn't
-offer routing for folding bike's such as [Bromptons](http://www.brompton.co.uk)
+offer routing for folding bike's such as [Bromptons](http://www.brompton.com)
 which can be taken on public transport when it's quicker than cycling directly.
 
 
