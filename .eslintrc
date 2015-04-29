@@ -1,0 +1,12 @@
+{
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": 0,
+    "indent": [2, 2],
+     "no-multi-spaces": [2, { exceptions: { "Property": false } }],
+  }
+}
